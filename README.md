@@ -6,7 +6,7 @@ This challenge allows you to practice the concepts and techniques learned over t
 
 This is an individual assessment. All work must be your own. Your challenge score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
 
-You are not allowed to collaborate during the sprint challenge. However, you are encouraged to follow the twenty-minute rule and seek support from your TL if you need direction.
+You are not allowed to collaborate during the sprint challenge. However, you are encouraged to follow the twenty-minute rule and seek support from your TL if you need direction
 
 ## Full Time Students
 
@@ -31,12 +31,17 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
+React JS is a library for User Interfaces. It uses JSX and makes the code a lot more readable, reusable, and easier to debug. It solves the problem of repetitive, redundant coding and it allows people to use html for exactly what they need it to do.
 
 1. Describe component state.
+Component state is almost like the status of something. For example, if you wanted something to toggle on or off, state allows it to be changed depending on how the user interacts with the web app.
 
 1. Describe props.
+Props are almost like arguments. More specifically it's a set of data that can be passed through components and it is used so that way no matter what data you choose to put through, you don't have to change the component function itself.
 
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+Side effects are things that are executed outside the function - for example the effect hook. It allows us to grab api data so we can pass it through as props of our component.
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
